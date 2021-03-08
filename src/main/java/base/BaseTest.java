@@ -101,6 +101,5 @@ public class BaseTest {
     }
 
 
-    public void LoginForm() {
-    }
+   
 }
